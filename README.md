@@ -28,7 +28,7 @@ To forecast monthly sales using historical data and provide business insights vi
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Sales Forecast Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
