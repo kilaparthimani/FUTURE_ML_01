@@ -28,7 +28,7 @@ To forecast monthly sales using historical data and provide business insights vi
 
 ## 📊 Dashboard Preview
 
-!![AI_Sales_Forecast_Dashboard](https://github.com/user-attachments/assets/5dd46097-2198-4cb3-b105-0ae49f8777fa)
+![Dashboard Preview](Sales Forecast Dashboard.png)
 
 ---
 
